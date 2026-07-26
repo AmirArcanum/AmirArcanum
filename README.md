@@ -1,90 +1,117 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">Hi 😊I'm Amir Arcanum</div>  
-  
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,50:2563EB,100:06B6D4&text=AMIR%20ARCANUM&fontColor=ffffff&fontSize=52&animation=twinkling"/>
 
-- **🐍I'm Python Developer**  
-  
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Python+Developer;Telegram+Bot+Developer;HTML+%7C+CSS+%7C+SQL;Always+Learning." />
 
-- **🤖I'm Telegram Bot in Python Developer**  
-  
-
-- **💻I'm Fluency in SQL**  
-  
-
-- **🌱I'm Fluency in English Language**  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+# 🚀 About Me
 
+```python
+class AmirArcanum:
 
-</td><td valign="top" width="33%">
+    def __init__(self):
 
+        self.name = "Amir Arcanum"
 
+        self.languages = [
+            "Python",
+            "HTML",
+            "CSS",
+            "SQL"
+        ]
 
-</td></tr></table>  
+        self.speciality = [
+            "Telegram Bot Development"
+        ]
 
-<br/>  
+    def status(self):
+        return "Always Learning."
+```
 
+---
 
-## Connect with me  
+# 🌐 Socials
+
+<p align="left">
+
+<a href="https://t.me/YOUR_ID">
+
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Telegram%20Bot-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AmirArcanum&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirArcanum&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=AmirArcanum&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirArcanum&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Snake Animation
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
 <div align="center">
-<a href="https://github.com/AmirArcanum" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
-<br/>  
+### ⚡ Build • Learn • Improve
 
+</div>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AmirArcanum&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=AmirArcanum&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:06B6D4,100:2563EB"/>
