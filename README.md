@@ -6,7 +6,7 @@
 
 - 🐍 **I'm a Python Developer**
 
-- 🤖 **I'm a Telegram Bot Developer (Python)**
+- 🤖 **I'm a Telegram Bot In Python Developer**
 
 - 🗄️ **I'm Fluent in SQL**
 
@@ -33,8 +33,6 @@
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=python" height="55"/>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=telegram,bot,python" height="55"/>
 
 <img src="https://skillicons.dev/icons?i=html" height="55"/>
 
