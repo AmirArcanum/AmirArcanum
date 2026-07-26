@@ -13,6 +13,7 @@
 <a href="https://t.me/AmirArcanum" target="_blank">
   <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" alt="Telegram">
 </a>
+
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:AmirArcanum@gmail.com)
 
 # 💻 Tech Stack:
