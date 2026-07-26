@@ -32,22 +32,9 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python" height="55
-
-
-<img src="https://skillicons.dev/icons?i=mysql" height="55" />
-
-
-
-<img src="https://YOUR_LINK/telegram-python-bot.png" height="55"/>
-
-<img src="assets/telegram-python-bot.png" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=html" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=css" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+<img src="assets/telegram-bot-python.png" height="55"/>
+<img src="assets/mysql.png" height="55"/>
+<img src="assets/english-language.png" height="55"/>
 
 
 </p>
