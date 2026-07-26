@@ -34,6 +34,8 @@
 
 <img src="https://skillicons.dev/icons?i=python" height="55"/>
 
+<img src="assets/telegram-python-bot.png" height="55"/>
+
 <img src="https://skillicons.dev/icons?i=html" height="55"/>
 
 <img src="https://skillicons.dev/icons?i=css" height="55"/>
