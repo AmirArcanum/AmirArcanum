@@ -20,7 +20,7 @@
 
 <a href="https://t.me/AmirArcanum">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=telegram,bot,python" height="55"/>
+<img src="assets/telegram-python-bot.png" height="55"/>
 
 </a>
 
