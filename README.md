@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 Hi I'm Amir Arcanum
+
 - 🐍 I'm a Python Developer
 
 - 🤖 I'm a Telegram Bot In Python Developer
@@ -9,7 +10,9 @@
 
 
 ## 🌐 Socials:
-[![Telegram](https://img.shields.io/badge/Telegram-@AmirArcanum-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AmirArcanum)
+<a href="https://t.me/AmirArcanum" target="_blank">
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" alt="Telegram">
+</a>
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:AmirArcanum@gmail.com)
 
 # 💻 Tech Stack:
