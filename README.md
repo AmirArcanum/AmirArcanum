@@ -32,7 +32,12 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python" height="55"/>
+<img src="https://skillicons.dev/icons?i=python" height="55
+
+
+<img src="https://skillicons.dev/icons?i=mysql" height="55" />
+
+
 
 <img src="https://YOUR_LINK/telegram-python-bot.png" height="55"/>
 
