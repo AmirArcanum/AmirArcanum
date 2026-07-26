@@ -18,28 +18,7 @@
 
 <p align="left">
 
-<a href="https://t.me/YOUR_ID">
-<img src="https://skillicons.dev/icons?i=telegram" height="55"/>
-</a>
 
-</p>
-
----
-
-## 💻 Tech Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=telegram" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
-
-</p>
-
-<p align="left">
-
-<b>&nbsp;&nbsp;&nbsp;&nbsp;Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Telegram Bot &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MySQL</b>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousefvafaei&show_icons=true&theme=radical)
 
 </p>
