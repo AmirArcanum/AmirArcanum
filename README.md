@@ -18,10 +18,8 @@
 
 <p align="left">
 
-<a href="https://t.me/AmirArcanum">
-
-<img src="assets/telegram-python-bot.png" height="55"/>
-
+<a href="https://t.me/YOUR_ID">
+<img src="https://skillicons.dev/icons?i=telegram" height="55"/>
 </a>
 
 </p>
@@ -32,9 +30,16 @@
 
 <p align="left">
 
-<img src="assets/telegram-bot-python.png" height="55"/>
-<img src="assets/mysql.png" height="55"/>
-<img src="assets/english-language.png" height="55"/>
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
 
+<img src="https://skillicons.dev/icons?i=telegram" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+
+</p>
+
+<p align="left">
+
+<b>&nbsp;&nbsp;&nbsp;&nbsp;Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Telegram Bot &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MySQL</b>
 
 </p>
