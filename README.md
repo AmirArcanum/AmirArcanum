@@ -34,6 +34,8 @@
 
 <img src="https://skillicons.dev/icons?i=python" height="55"/>
 
+<img src="https://YOUR_LINK/telegram-python-bot.png" height="55"/>
+
 <img src="assets/telegram-python-bot.png" height="55"/>
 
 <img src="https://skillicons.dev/icons?i=html" height="55"/>
@@ -42,6 +44,5 @@
 
 <img src="https://skillicons.dev/icons?i=mysql" height="55"/>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=language" height="55"/>
 
 </p>
