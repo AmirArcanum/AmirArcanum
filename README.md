@@ -10,7 +10,7 @@
 
 - 🗄️ **I'm Fluent in SQL**
 
-- 🌐 **I'm Fluent in English**
+- 🌍 **I'm Fluent in English**
 
 ---
 
@@ -19,7 +19,9 @@
 <p align="left">
 
 <a href="https://t.me/AmirArcanum">
-<img src="https://skillicons.dev/icons?i=telegram" height="55"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=telegram,bot,python" height="55"/>
+
 </a>
 
 </p>
@@ -32,7 +34,7 @@
 
 <img src="https://skillicons.dev/icons?i=python" height="55"/>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=telegram,python" height="55"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=telegram,bot,python" height="55"/>
 
 <img src="https://skillicons.dev/icons?i=html" height="55"/>
 
