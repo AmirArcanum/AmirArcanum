@@ -10,10 +10,12 @@
 
 
 ## 🌐 Socials:
-<a href="https://t.me/AmirArcanum" target="_blank">
-  <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" alt="Telegram">
-  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:AmirArcanum@gmail.com)
+<a href="https://t.me/AmirArcanum">
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" alt="Telegram"/>
+</a>&nbsp;&nbsp;
+<a href="mailto:AmirArcanum@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Gmail"/>
+</a>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
