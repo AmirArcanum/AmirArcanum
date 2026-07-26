@@ -14,11 +14,7 @@
 
 ---
 
-## 🌐 Socials
 
-<p align="left">
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?AmirArcanum=yousefvafaei&show_icons=true&theme=radical)
-
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?
 </p>
